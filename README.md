@@ -1,6 +1,4 @@
-<img width="2830" height="550" alt="geospatial_ai_split_earth_banner" src="https://github.com/user-attachments/assets/2b1113c8-9a8b-4bbf-80c6-d8419f8931d7" />
-  <img src="geospatial_ai_split_earth_banner.png" width="100%" />
-</div>
+<img width="2830" height="550" alt="geospatial_ai_split_earth_banner" src="https://github.com/user-attachments/assets/8dd8b86f-9362-4b7b-8ca2-1c9fba5e52c0" />
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Climate.+Cities.+Code.;Flood+prediction+systems.;Heat+island+mapping.;Evacuation+route+optimization." />
 </div>
